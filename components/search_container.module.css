@@ -1,0 +1,9 @@
+.header {
+  margin-left: 15px;
+  color: var(--primary-text-color);
+}
+
+.flex_box {
+  display: flex;
+  flex-wrap: wrap;
+}
