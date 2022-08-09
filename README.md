@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+MNTV is an open source video streaming project hosted locally.
+It is built in Nodejs and Nextjs.
